@@ -64,7 +64,7 @@ export const AboutContainer = styled.div`
     flex-direction: column;
 
     align-items: center;
-    min-width: 400px;
+    min-width: 350px;
 
     & p {
       padding: 10px 0;

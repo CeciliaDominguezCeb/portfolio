@@ -13,7 +13,7 @@ export const StyledBurger = styled.button`
     padding: 0;
     position: absolute;
     right: 2rem;
-    top: 5%;
+    top: 2.5%;
     width: 2rem;
     z-index: 10;
 
